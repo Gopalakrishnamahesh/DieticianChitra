@@ -12,7 +12,7 @@ export default function Home() {
       {/* HEADER */}
 <header className="flex justify-between items-center px-6 md:px-20 py-4 border-b sticky top-0 bg-white z-10">
   <div className="flex items-center">
-    <img src="/logo-navbar.png" alt="Logo" className="h-16 w-auto object-contain" />
+    <img src= {process.env.PUBLIC_URL + "/logo-navbar.png"} alt="Logo" className="h-16 w-auto object-contain" />
   </div>
 
 

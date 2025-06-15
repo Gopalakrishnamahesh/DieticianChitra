@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chitra-diet-site/static/css/main.137d4164.css",
-    "main.js": "/chitra-diet-site/static/js/main.6bbc76b4.js",
+    "main.js": "/chitra-diet-site/static/js/main.0117aa66.js",
     "index.html": "/chitra-diet-site/index.html",
     "main.137d4164.css.map": "/chitra-diet-site/static/css/main.137d4164.css.map",
-    "main.6bbc76b4.js.map": "/chitra-diet-site/static/js/main.6bbc76b4.js.map"
+    "main.0117aa66.js.map": "/chitra-diet-site/static/js/main.0117aa66.js.map"
   },
   "entrypoints": [
     "static/css/main.137d4164.css",
-    "static/js/main.6bbc76b4.js"
+    "static/js/main.0117aa66.js"
   ]
 }

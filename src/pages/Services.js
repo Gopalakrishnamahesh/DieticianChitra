@@ -35,7 +35,7 @@ export default function Services() {
       {/* HEADER with Full Nav and 'About' before 'Services' */}
       <header className="flex justify-between items-center px-6 md:px-20 py-4 border-b sticky top-0 bg-white z-10">
         <div className="flex items-center">
-         <img src="/nav_logo.png" alt="Logo" className="h-12 w-auto object-contain" />
+         <img src={process.env.PUBLIC_URL + "/logo-navbar.png"} alt="Logo" className="h-12 w-auto object-contain" />
         </div>
         <nav className="space-x-3 text-sm">
           <a href="/" className="hover:text-teal-600">Home</a>
